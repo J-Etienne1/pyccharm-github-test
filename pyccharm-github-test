@@ -1,1 +1,4 @@
 print('line added in Github')
+
+
+print('line added in Pycharm after being closed from Github')
