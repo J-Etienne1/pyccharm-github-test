@@ -2,3 +2,6 @@ print('line added in Github')
 
 
 print('line added in Pycharm after being closed from Github')
+
+
+print('adding a line in GitHub to then pull to Pycharm')
