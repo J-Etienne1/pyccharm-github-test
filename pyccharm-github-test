@@ -1,7 +1,7 @@
 print('line added in Github')
 
 
-print('line added in Pycharm after being closed from Github')
+print('line added in Pycharm after being closed from Github') """editing this line to see changes and diffs on Github""
 
 
 print('adding a line in GitHub to then pull to Pycharm')
